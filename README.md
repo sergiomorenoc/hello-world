@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-I've been in Norway recently and I found it a very beautiful place!
+I went to Norway recently and find it very beautiful!
